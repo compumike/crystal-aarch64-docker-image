@@ -1,0 +1,4 @@
+image="compumike/crystal-aarch64"
+
+declare -a build_opts
+#build_opts+=("--no-cache")
